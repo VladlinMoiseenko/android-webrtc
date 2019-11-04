@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android WEBRTC</string>
+    <string name="host">IP</string>
+    <string name="port">3000</string>
+    <string name="action_settings">Options</string>
+</resources>
